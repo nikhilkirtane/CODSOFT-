@@ -1,2 +1,10 @@
 Task 1 
-Iris Flower Classification
+
+IRIS FLOWER CLASSIFICATION(TASK 1)
+
+import dataset
+visualizing the dataset
+Data preparation
+Training the algorithm
+Making Perdiction
+Model Evolution
