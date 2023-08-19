@@ -1,4 +1,2 @@
-Task 1 
-
-IRIS FLOWER CLASSIFICATION(TASK 1)
+Data science internship at Codsoft 
 
